@@ -36,28 +36,27 @@ __Data Source__ : International Monetary funds
   
 __Figure 2: ACF of Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/3ae2d837-31e3-46a5-82d6-ff19fa19998d)
-__Data Source__ : International Monetary funds  
+<p align="right">Data Source: International Monetary funds.</p>
   
   
 __Figure 3: PACF of Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/abcc8db3-ff3f-4f50-ae86-babdc015cf67)
-__Data Source__ : International Monetary funds  
+<p align="right">Data Source: International Monetary funds.</p> 
   
   
 __Figure 4: Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/d94220ad-bbd6-4b19-8700-9ce68d88553e)
-__Data Source__ : International Monetary funds  
+<p align="right">Data Source: International Monetary funds.</p>
   
   
 __Figure 5: Original TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/af128539-57e7-4900-8b76-39007a2a78a7)
+<p align="right">Data Source: International Monetary funds.</p>
 
-__Data Source__ : International Monetary funds
+
 <h2 align="right">Your Subheading</h2>
 <h2 align="center">Your Subheading</h2>
 <p align="center">Your sentence goes here.</p>
-
-
 <h1 align="center">The End</h1>
 
 
