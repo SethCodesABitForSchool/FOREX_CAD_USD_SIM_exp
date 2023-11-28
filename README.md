@@ -53,6 +53,8 @@ __Figure 5: Original TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/af128539-57e7-4900-8b76-39007a2a78a7)
 
 __Data Source__ : International Monetary funds
+<h2 align="right">Your Subheading</h2>
+<h2 align="center">Your Subheading</h2>
 
 
 <h1 align="center">The End</h1>
