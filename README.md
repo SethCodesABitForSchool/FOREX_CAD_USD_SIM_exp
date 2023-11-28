@@ -50,3 +50,19 @@ __Data Source__ : International Monetary funds
 __Figure 5: Original TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/96223014-4ab7-43af-91df-1400de765908)
 __Data Source__ : International Monetary funds
+
+
+<h1 align="center">Your Heading</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
