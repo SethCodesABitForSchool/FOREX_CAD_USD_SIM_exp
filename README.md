@@ -40,7 +40,7 @@
 
   
 # Appendix - Figures 
-  
+All the other figures generated for the forecast. 
 <h2 align="center">Figure 1: Raw forecast</h2>
 
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/005ceb67-fdb0-490b-8393-e163fcc74f07)
