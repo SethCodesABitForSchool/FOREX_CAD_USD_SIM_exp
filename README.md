@@ -31,8 +31,8 @@ __Forecasted Values, h = 2 months__
 Data Source[^1]  
 Data Source[^2]
 
-[^1]: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
-[^2]: https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/CAN?year=2023
+[^1]: Bank of Canada: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
+[^2]: International Monetary Fund: https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/CAN?year=2023
 
   
 # Appendix - Figures 
