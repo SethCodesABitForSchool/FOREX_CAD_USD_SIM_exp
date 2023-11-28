@@ -15,7 +15,7 @@ _Therefore, the forecast may not be accurate or suitable for real-world decision
 
 _The author acknowledges the potential for errors and inaccuracies and recommends caution when interpreting or utilizing the information presented._
 
-_This forecast should not be considered as professional advice. Users are encouraged to seek guidance from qualified professionals for any practical application AKA Please ask your professors._
+_This forecast should not be considered as professional advice. Users are encouraged to seek guidance from qualified professionals for any practical application AKA __Please ask your professors__._
 
 *Thanks,*
 *Seth*
