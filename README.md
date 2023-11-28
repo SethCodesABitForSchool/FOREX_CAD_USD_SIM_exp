@@ -18,16 +18,19 @@ __Forecasted Values, h = 2 months__
 
 - November, 2023, the exchange rate is 1.643257, meaning that 1 US dollar can be exchanged for approximately __1.643257 Canadian dollars__.
 - December, 2023, the exchange rate is 1.619838, indicating that 1 US dollar can be exchanged for approximately __1.619838 Canadian dollars__.
-  
-# The predicted monthly average exchange rates, 1 USD to CAD.
 
+<center>
+# The predicted monthly average exchange rates, 1 USD to CAD.
+<center>
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/2000002f-44a8-4b1d-8834-b151ed13454b)
 
 
 # Other Plots 
 __Figure1: Raw forecast__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/005ceb67-fdb0-490b-8393-e163fcc74f07)
+<center>
 __Data Source__ : International Monetary funds  
+<center>
 __Figure 2: ACF of Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/3ae2d837-31e3-46a5-82d6-ff19fa19998d)
 __Data Source__ : International Monetary funds  
