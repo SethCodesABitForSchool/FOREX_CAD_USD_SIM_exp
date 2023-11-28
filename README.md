@@ -26,7 +26,9 @@ __Forecasted Values, h = 2 months__
 
   
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/2000002f-44a8-4b1d-8834-b151ed13454b)
-<p align="center">Data Source: International Monetary funds.</p> [^1].
+<p align="center">Data Source: International Monetary funds.</p>   
+
+Data Source[^1].
 
 [^1]: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
 
