@@ -1,8 +1,7 @@
 # FOREX_CAD_USD_SIM_exp
 
 > [!CAUTION]
-> 
-_This is an experiment._
+> _This is an experiment._
 
 _The forecast presented in this repository is a mere excercise and comes with its own limitation as it is done by an undergard. This is completed as part of coursework for a class and should be considered likewise and limited to the domain knowledge of the author(me)._
 
