@@ -4,7 +4,7 @@
 
 _The forecast presented in this repository is a mere excercise and comes with its own limitation as it is done by an undergard. This is completed as part of coursework for a class and should be considered likewise and limited to the domain knowledge of the author(me)._
 
-_The forecast and the methodology employed may not reflect industry best practices. So,the results, including both the code and the forecasted values, are subject to the inconsistencies._
+_The forecast and the methodology employed may not reflect industry best practices. So,the results, including both the code and the forecasted values, are subject to inconsistencies._
 
 _Therefore, the forecast may not be accurate or suitable for real-world decision-making._
 
