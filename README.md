@@ -22,7 +22,6 @@ __Forecasted Values, h = 2 months__
 <center>
   
 # The predicted monthly average exchange rates, 1 USD to CAD.
-
 <center>
 
   
