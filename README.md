@@ -16,8 +16,8 @@ _This forecast should not be considered as professional advice. Users are encour
 *Thanks,*  
 *Seth*  
 
-> [!TIP] __Reference:__  
-> Data Source[^1]
+> [!TIP] 
+> Data Source[^1]  
 > Data Source[^2]
 
 
