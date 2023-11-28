@@ -16,10 +16,10 @@ _This forecast should not be considered as professional advice. Users are encour
 *Thanks,*  
 *Seth*  
 
-__Reference:__  
-  
-Data Source[^1]  
-Data Source[^2]
+> [!TIP] __Reference:__  
+> Data Source[^1]
+> Data Source[^2]
+
 
 [^1]: Bank of Canada: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
 [^2]: International Monetary Fund: https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/CAN?year=2023
