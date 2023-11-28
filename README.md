@@ -59,9 +59,7 @@ __Forecasted Values, h = 2 months__
 <p align="right">Data Source: International Monetary funds.</p>
 
 
-<h2 align="right">Your Subheading</h2>
-<h2 align="center">Your Subheading</h2>
-<p align="center">Your sentence goes here.</p>
+
 <h1 align="center">The End</h1>
 
 
