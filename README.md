@@ -1,6 +1,6 @@
 # FOREX_CAD_USD_SIM_exp
 
-[!CAUTION]
+> [!CAUTION]
 
 _This is an experiment._
 
