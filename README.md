@@ -17,5 +17,5 @@ _The author acknowledges the potential for errors and inaccuracies and recommend
 
 _This forecast should not be considered as professional advice. Users are encouraged to seek guidance from qualified professionals for any practical application AKA __Please ask your professors__._
 
-*Thanks,* <
+*Thanks,* <break>
 *Seth*
