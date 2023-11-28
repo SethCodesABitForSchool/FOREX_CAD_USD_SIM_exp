@@ -26,25 +26,24 @@ __Forecasted Values, h = 2 months__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/2000002f-44a8-4b1d-8834-b151ed13454b)
 
 
-# Other Plots 
-__Figure1: Raw forecast__
-![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/005ceb67-fdb0-490b-8393-e163fcc74f07)
-
-<center>
+# Appendix - Figures 
   
+__Figure 1: Raw forecast__
+![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/005ceb67-fdb0-490b-8393-e163fcc74f07)
 __Data Source__ : International Monetary funds  
-
-<center>
   
 __Figure 2: ACF of Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/3ae2d837-31e3-46a5-82d6-ff19fa19998d)
 __Data Source__ : International Monetary funds  
+  
 __Figure 3: PACF of Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/abcc8db3-ff3f-4f50-ae86-babdc015cf67)
 __Data Source__ : International Monetary funds  
+  
 __Figure 4: Differenced TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/d94220ad-bbd6-4b19-8700-9ce68d88553e)
 __Data Source__ : International Monetary funds  
+  
 __Figure 5: Original TS__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/96223014-4ab7-43af-91df-1400de765908)
 __Data Source__ : International Monetary funds
