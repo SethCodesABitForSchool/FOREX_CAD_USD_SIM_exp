@@ -14,7 +14,14 @@ _The author acknowledges the potential for errors and inaccuracies and recommend
 _This forecast should not be considered as professional advice. Users are encouraged to seek guidance from qualified professionals for any practical application AKA __Please ask your professors__._
 
 *Thanks,*  
-*Seth*
+*Seth*  
+
+Data Source[^1]  
+Data Source[^2]
+
+[^1]: Bank of Canada: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
+[^2]: International Monetary Fund: https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/CAN?year=2023
+
 
 __Forecasted Values, h = 2 months__ 
 
@@ -27,12 +34,6 @@ __Forecasted Values, h = 2 months__
   
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/2000002f-44a8-4b1d-8834-b151ed13454b)
 <p align="center">Data Source: International Monetary funds.</p>   
-
-Data Source[^1]  
-Data Source[^2]
-
-[^1]: Bank of Canada: https://www.bankofcanada.ca/rates/exchange/monthly-exchange-rates/.
-[^2]: International Monetary Fund: https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/CAN?year=2023
 
   
 # Appendix - Figures 
