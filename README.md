@@ -24,14 +24,14 @@ __Forecasted Values, h = 2 months__
 
   
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/2000002f-44a8-4b1d-8834-b151ed13454b)
-  
+<p align="center">Data Source: International Monetary funds.</p>
 
   
 # Appendix - Figures 
   
 __Figure 1: Raw forecast__
 ![image](https://github.com/SethCodesABitForSchool/FOREX_CAD_USD_SIM_exp/assets/147195203/005ceb67-fdb0-490b-8393-e163fcc74f07)
-__Data Source__ : International Monetary funds  
+<p align="right">Data Source: International Monetary funds.</p>
   
   
 __Figure 2: ACF of Differenced TS__
