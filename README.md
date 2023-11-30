@@ -1,5 +1,5 @@
 # FOREX_CAD_USD_SIM_exp
-
+The ploat needs to be updated as it is combined with the differenced values of the TS and not the original values. 
 > [!CAUTION]
 > _This is an experiment._
 
